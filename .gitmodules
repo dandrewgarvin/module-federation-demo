@@ -1,0 +1,7 @@
+[submodule "client"]
+  path = client
+  url = git@github.com:dandrewgarvin/module-federation-client.git
+
+[submodule "host"]
+  path = host
+  url = git@github.com:dandrewgarvin/module-federation-host.git
